@@ -45,7 +45,7 @@
         android:id="@+id/textView2"
         android:layout_width="146dp"
         android:layout_height="44dp"
-        android:shadowColor="#FFB300"
+        android:shadowColor="#43A047"
         android:text="@string/titulo_app"
         android:textAllCaps="true"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
